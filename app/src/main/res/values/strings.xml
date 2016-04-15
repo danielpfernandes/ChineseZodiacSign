@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chinese Zodiac Sign</string>
+    <string name="hint">Enter your birth year</string>
+    <string name="btnSubmit">Submit</string>
+</resources>
